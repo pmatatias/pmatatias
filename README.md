@@ -1,4 +1,4 @@
-# Matatias Situmorang &mdash; @pota-too
+# Matatias Situmorang &mdash; @pmatatias
 
 ### Hi There! I'm Matatias
 Welcome to my github profile
@@ -19,18 +19,18 @@ Welcome to my github profile
 
 ### 🌱 Statistics
 
-![github stats](https://github-readme-stats.vercel.app/api?username=pota-too&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=pmatatias&show_icons=true)
 
 <details>
   <summary>:zap: Language Stats</summary>
   </br>
-  <img align="left" alt="pota-too's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pota-too&langs_count=6&layout=compact" />
+  <img align="left" alt="pmatatias's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pota-too&langs_count=6&layout=compact" />
 </details>
 
 
 [linkedin]: https://www.linkedin.com/in/matatiassitumorang/
 <!--
-**pota-too/pota-too** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pmatatias/pmatatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
