@@ -19,10 +19,10 @@ Welcome to my github profile
 
 ### 🌱 Statistics
 
-![github stats](https://github-readme-stats.vercel.app/api?username=pmatatias&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=pmatatias&show_icons=true&count_private=true)
 
 <details>
-  <summary>:zap: Language Stats (by file size)</summary>
+  <summary>:zap: Language Stats (by file size) </summary>
   </br>
   <img align="left" alt="pmatatias's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmatatias&langs_count=6&layout=compact" />
 </details>
