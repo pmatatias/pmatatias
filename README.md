@@ -3,6 +3,7 @@
 ### Hi There! I'm Petra
 Welcome to my github profile
 
+#### 📞 you can reach me out on [twitter][3] or [LinkedIn][4]
 
 ### 📝 My Latest Blog Post in Medium
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pmatatias/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pmatatias/0" alt="Recent Article 0"></a>
@@ -21,6 +22,10 @@ Welcome to my github profile
   </br>
   <img align="left" alt="pmatatias's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmatatias&langs_count=6&layout=compact" />
 </details>
+
+
+ [3]: https://twitter.com/p_matatias
+ [4]: https://www.linkedin.com/in/pmatatias/
 
 <!--
 **pmatatias/pmatatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
