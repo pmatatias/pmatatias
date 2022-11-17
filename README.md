@@ -1,7 +1,7 @@
-# Matatias Situmorang &mdash; @pmatatias
+# Matatias Situmorang &mdash; @pmatatias         
 
-### Hi There! I'm Petra
-Welcome to my github profile
+### Hi There! I'm Petra  
+Welcome to my github profile 
 
 #### 📞 you can reach me out on [twitter][3] or [LinkedIn][4]
 
@@ -14,6 +14,7 @@ Welcome to my github profile
 
 
 ### 🌱 Statistics
+![](https://komarev.com/ghpvc/?username=pmatatias&style=flat-square)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=pmatatias&show_icons=true&count_private=true)
 
