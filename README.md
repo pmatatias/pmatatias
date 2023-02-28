@@ -1,9 +1,9 @@
 # Matatias Situmorang &mdash; @pmatatias         
 
 ### Hi There! I'm Petra  
-Welcome to my github profile 
+Welcome to my github profile. You may find me on [StackOverflow][5] answering Flutter related questions.
 
-#### 📞 you can reach me out on [twitter][3] or [LinkedIn][4]
+#### 📞 you can reach me out on [twitter][3] or [LinkedIn][4].
 
 ### 📝 My Latest Blog Post in Medium
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pmatatias/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pmatatias/0" alt="Recent Article 0"></a>
@@ -27,6 +27,7 @@ Welcome to my github profile
 
  [3]: https://twitter.com/p_matatias
  [4]: https://www.linkedin.com/in/pmatatias/
+ [5]: https://stackoverflow.com/users/12838877/pmatatias
 
 <!--
 **pmatatias/pmatatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
